@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,100' rel='stylesheet' type='text/css'>
+<link href="style.css" type="text/css" rel="stylesheet"> <title>Robotics Experience</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Times New Roman", sans-serif}
+.mySlides {display: none}
+</style>
+  </head>
+  <body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-card-2">
+    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="file:///Users/Luis/Documents/HIP-2017-2018/Home#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
+   <a href="file:///Users/Luis/Documents/HIP-2017-2018/About%20Me" class="w3-bar-item w3-button w3-padding-large w3-hide-small">ABOUT ME</a>
+    <a href="file:///Users/Luis/Documents/HIP-2017-2018/Robotics%20Experience" class="w3-bar-item w3-button w3-padding-large w3-hide-small">ROBOTICS EXP.</a>
+    <a href="file:///Users/Luis/Documents/HIP-2017-2018/Coding%20Experience" class="w3-bar-item w3-button w3-padding-large w3-hide-small">CODING EXP.</a>
+     <a href="file:///Users/Luis/Documents/HIP-2017-2018/My%20Project" class="w3-bar-item w3-button w3-padding-large w3-hide-small">MY PROJECT</a>
+      </div>
+    </div>
+    <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
+  </div>
+</div>
+    <div class="main">
+      <div class="container">
+         <img src="file:///Users/Luis/Desktop/HIP%2520EXPO%2520Comp%25202017-05[1].jpg" width="325px" height="250px">
+          <h2>Robotics Experience</h2>
+          <style>
+          p{font-family: "Times New Roman";}
+          h2{font-family: "Times New Roman";}
+          </style>
+        <p>
+        The engineering cycle is composed of 4 key components: Design, Build, Test, Improve. Throughout our 1st year as part of the HIP Program we had different competitions that would further develop our fundamentals of engineering. These robotics competitions that I had with my peers wouldn't have been possible without using the engineering cycle, because when we would think our robot is complete, there was still more we can further improve on. This allowed us to know that just like in a product for a company, this cycle must be further gone through in order to fully develop a solid product for a consumer. 
+        </p>
+        <p>
+        Our challenges include of the following:
+        <ul>
+            <li>Drag Race</li>
+            <li>Pick-Up</li>
+            <li>Team-Robot</li>
+            <li>Point A-Point B</li>
+            <li>Basketball</li>
+         </ul>
+       These challenges helped us understand different fundamentals through different task. I ended up winning the Drag Race, Pick-Up, Team-Robot, and split the Basketball competition. They also taught us very important lessons, such as: don't procrastinate, ask for help, and keeping your design simple enough for you to understand.        
+        </p>
+        <p> Along with the competitions, the HIP Program also enhanced our knowledge, not only about fundamental conceps, but also for our careers. Through discussions, and after-lunch activities, mentors developed our knowledge of what a network is, how to further develop a resume, how to apply for financial aid, and the common app. Along with these activities, we were able to attend a tour at the Viterbi School of Engineering at the USC campus.
+      </div>
+    </div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-black w3-xlarge">
+  <a href="https://www.snapchat.com/add/luif.18"><i class="fa fa-snapchat w3-hover-opacity"></i></a>
+  <a href="https://twitter.com/floresluis103"><i class="fa fa-twitter w3-hover-opacity"></i></a>
+ <a href="https://www.linkedin.com/in/luis-flores-307614148/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+  <style>
+  i{color:red}
+  </style>
+</footer>
+
+  </body>
+</html>
